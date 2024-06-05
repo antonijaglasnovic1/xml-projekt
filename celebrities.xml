@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<celebrities>
+  <celebrity id="1">
+    <ime>Taylor</ime>
+    <prezime>Swift</prezime>
+    <posao>Pjevačica</posao>
+    <godine>34</godine>
+  </celebrity>
+  <celebrity id="2">
+    <ime>Sabrina</ime>
+    <prezime>Carpenter</prezime>
+    <posao>Pjevačica</posao>
+    <godine>25</godine>
+  </celebrity>
+  <celebrity id="3">
+    <ime>Conan</ime>
+    <prezime>Gray</prezime>
+    <posao>Pjevač</posao>
+    <godine>25</godine>
+  </celebrity>
+  <celebrity id="4">
+    <ime>Lorde</ime>
+    <prezime>O'Connor</prezime>
+    <posao>Pjevačica</posao>
+    <godine>27</godine>
+  </celebrity>
+  <celebrity id="5">
+    <ime>Harry</ime>
+    <prezime>Styles</prezime>
+    <posao>Pjevač</posao>
+    <godine>30</godine>
+  </celebrity>
+  <celebrity id="6">
+    <ime>Gracie</ime>
+    <prezime>Abrams</prezime>
+    <posao>Pjevačica</posao>
+    <godine>24</godine>
+  </celebrity>
+  <celebrity id="7">
+    <ime>Anya</ime>
+    <prezime>Taylor-Joy</prezime>
+    <posao>Glumica</posao>
+    <godine>28</godine>
+  </celebrity>
+  <celebrity id="8">
+    <ime>Kiera</ime>
+    <prezime>Knightly</prezime>
+    <posao>Glumica</posao>
+    <godine>39</godine>
+  </celebrity>
+    <celebrity id="9">
+    <ime>James</ime>
+    <prezime>McAvoy</prezime>
+    <posao>Glumac</posao>
+    <godine>45</godine>
+  </celebrity>
+  <celebrity id="10">
+    <ime>Zayn</ime>
+    <prezime>Malik</prezime>
+    <posao>Pjevač</posao>
+    <godine>31</godine>
+    </celebrity>
+    <celebrity id="11">
+    <ime>Finneas</ime>
+    <prezime>O'Connell</prezime>
+    <posao>Pjrevač</posao>
+    <godine>26</godine>
+    </celebrity>
+    <celebrity id="12">
+    <ime>Saoirse</ime>
+    <prezime>Ronnan</prezime>
+    <posao>Glumica</posao>
+    <godine>30</godine>
+    </celebrity>
+    <celebrity id="13">
+    <ime>Florence</ime>
+    <prezime>Pugh</prezime>
+    <posao>Glumica</posao>
+    <godine>28</godine>
+    </celebrity>
+    </celebrities>

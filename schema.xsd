@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+  <xs:element name="celebrities">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="celebrity" maxOccurs="unbounded">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="ime" type="xs:string"/>
+              <xs:element name="prezime" type="xs:string"/>
+              <xs:element name="posao" type="xs:string"/>
+              <xs:element name="godine" type="xs:integer"/>
+            </xs:sequence>
+            <xs:attribute name="id" type="xs:integer" use="required"/>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+
+</xs:schema>
